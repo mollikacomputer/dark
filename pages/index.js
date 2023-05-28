@@ -1,4 +1,4 @@
-'use client';
+
 import { Inter } from 'next/font/google';
 import { useTheme } from 'next-themes';
 import React from 'react';
