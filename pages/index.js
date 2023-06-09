@@ -25,7 +25,9 @@ export default function Home() {
         <h2  data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" className="text-3xl"> Animation Zoom in </h2>
         <h2  data-aos="fade-right" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" className="text-3xl"> Fade Right </h2>
         <h2  data-aos="fade-left" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" className="text-3xl"> Fade Left </h2>
-        <h2 data-aos="fade-down-left" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" className="text-5xl"> Fade left up</h2>
+        <h2 data-aos="fade-down-left" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" className="text-5xl"> Fade left left</h2>
+        <h2 data-aos="fade-down-right" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" className="text-5xl"> Fade left up Right</h2>
+        <h2 data-aos="fade-down-top" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" className="text-5xl"> Fade left Top</h2>
     </main>
   )
 }
